@@ -28,3 +28,10 @@
 
 <img src="https://raw.githubusercontent.com/123ufo/AndroidTV/main/jpg/12.jpg?raw=true" width="1280"/>
 
+<img src="https://raw.githubusercontent.com/123ufo/AndroidTV/main/jpg/13.jpg?raw=true" width="1280"/>
+
+<img src="https://raw.githubusercontent.com/123ufo/AndroidTV/main/jpg/14.jpg?raw=true" width="1280"/>
+
+
+<img src="https://raw.githubusercontent.com/123ufo/AndroidTV/main/jpg/15.jpg?raw=true" width="1280"/>
+
