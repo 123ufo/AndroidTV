@@ -1,6 +1,6 @@
 #### Android TV
 
-> 本项目用于记录学习Android TV应用实战开发的学习过程
+> 本项目用于记录学习[Android TV应用项目开发实战](https://download.csdn.net/course/detail/37647)的学习过程
 
 <img src="https://raw.githubusercontent.com/123ufo/AndroidTV/main/jpg/1.jpg?raw=true" width="1280"/>
 
